@@ -13,7 +13,7 @@ I'm also a **Research Assistant at Apolo Scientific Computing Center**, where I 
 🌱 I’m currently learning **FastAPI and ReactJS**.  
 💬 Ask me about **Python, AWS, and VueJS for data visualization and analytics**.  
 📫 How to reach me: **sneusar@gmail.com**  
-⚡ Fun Fact: **I love turtles 🐢 and trains 🚂—always happy to chat about them!**  
+⚡ Fun Fact: **I love turtles 🐢 and trains 🚂**
 
 ---
 
